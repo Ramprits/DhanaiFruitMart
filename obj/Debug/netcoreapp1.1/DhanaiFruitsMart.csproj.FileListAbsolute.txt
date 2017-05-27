@@ -1,0 +1,9 @@
+F:\DniFruitsMart\DhanaiFruitsMart\bin\Debug\netcoreapp1.1\DhanaiFruitsMart.deps.json
+F:\DniFruitsMart\DhanaiFruitsMart\bin\Debug\netcoreapp1.1\DhanaiFruitsMart.runtimeconfig.json
+F:\DniFruitsMart\DhanaiFruitsMart\bin\Debug\netcoreapp1.1\DhanaiFruitsMart.runtimeconfig.dev.json
+F:\DniFruitsMart\DhanaiFruitsMart\bin\Debug\netcoreapp1.1\DhanaiFruitsMart.dll
+F:\DniFruitsMart\DhanaiFruitsMart\bin\Debug\netcoreapp1.1\DhanaiFruitsMart.pdb
+F:\DniFruitsMart\DhanaiFruitsMart\obj\Debug\netcoreapp1.1\DhanaiFruitsMart.csprojResolveAssemblyReference.cache
+F:\DniFruitsMart\DhanaiFruitsMart\obj\Debug\netcoreapp1.1\DhanaiFruitsMart.AssemblyInfo.cs
+F:\DniFruitsMart\DhanaiFruitsMart\obj\Debug\netcoreapp1.1\DhanaiFruitsMart.dll
+F:\DniFruitsMart\DhanaiFruitsMart\obj\Debug\netcoreapp1.1\DhanaiFruitsMart.pdb
